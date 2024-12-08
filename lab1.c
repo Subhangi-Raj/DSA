@@ -7,6 +7,7 @@ void main(){
     printf("The number without Swapping %d and %d",a,b);
     swap(a,b);
     printf("The number After Swapping is %d and %d",a,b);
+    printf("Test");
 }
     void swap(int x,int y){
         int z;
